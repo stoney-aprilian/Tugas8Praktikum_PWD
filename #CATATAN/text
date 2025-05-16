@@ -1,0 +1,18 @@
+/*
+-- Tugas dibuat dengan bantuan AI (jujur inimah:v)
+-- Gambar untuk latar belakang halaman website dan cover dari game diambil dari internet
+-- Mungkin terdapat beberapa fungsi atau perintah yang belum pernah dipelajari sebelumnya
+-- Harap dimaklumi
+
+?? Mengapa dijadikan classes/Game.php dan config/database.php? >> Agar lebih terorganisir dan lebih rapi
+
+-- Sekian terimakasi :)
+*/
+
+/*
+Ringkasan:
+Peran & Apa yang Didapatkan / Dilihat
+Pembuat Web >>	Struktur kode OOP, pemisahan tanggung jawab, kemudahan maintenance, visual & interaktivitas
+Penggemar Game >>	Daftar game favorit lengkap, info rating dan genre, gambar menarik, fitur interaktif
+Pengguna Internet >> Website sederhana, mudah diakses, cepat, desain bersahabat, bisa tambah game sendiri
+*/
